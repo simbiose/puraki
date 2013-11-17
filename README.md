@@ -60,8 +60,9 @@ please fill an issue or help it doing a clone and then a pull request
 
 # TODO
 
-+ <s>support luvit module style</s>
++ "kill" coroutines when idle, simulate error
 + create a test suite
++ create a rockspec
 + create a wiki?
 
 % November 16th, 2013 -03 GMT
